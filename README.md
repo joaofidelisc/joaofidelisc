@@ -2,7 +2,7 @@
 
 ### Olá visitante! 👋
 
-Já que você está aqui, vou apresentar algumas informações sobre mim.
+Já que você está aqui, deixa eu apresentar algumas informações sobre mim.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
