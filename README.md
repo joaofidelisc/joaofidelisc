@@ -10,16 +10,16 @@ Já que você está aqui, vou apresentar algumas informações sobre mim.
 import Desenvolvedor from 'joaofidelisc';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'João Vitor Fidelis Cardozo';
-  area    = 'Engenharia de Software';
-  trabalho  = 'CATI Jr.';
+  nome = 'João Vitor Fidelis Cardozo';
+  area = 'Engenharia de Software';
+  trabalho = 'CATI Jr.';
   curso = 'Engenharia de Computação';
   universidade = 'UFSCar';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Python', 'JavaScript', 'C', 'C++'];
-  bibliotecas  = ['Sympy', 'Numpy', 'Pandas', 'Matplotlib', 'Scipy'];
+  linguagens = ['Python', 'JavaScript', 'C', 'C++'];
+  bibliotecas = ['Sympy', 'Numpy', 'Pandas', 'Matplotlib', 'Scipy'];
   frameworks = ['React', 'React Native'];
   dados = ['Firebase', 'MySQL', 'PostgreSQL'];
   devOps = ['Git', 'GitHub'];
