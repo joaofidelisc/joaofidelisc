@@ -12,7 +12,7 @@ import Desenvolvedor from 'joaofidelisc';
 class SobreMim extends Desenvolvedor {
   nome = 'João Vitor Fidelis Cardozo';
   area = 'Engenharia de Software';
-  trabalho = 'CATI Jr.';
+  trabalho = 'CSD BR';
   curso = 'Engenharia de Computação';
   universidade = 'UFSCar';
 }
