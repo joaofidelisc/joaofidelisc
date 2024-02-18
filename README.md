@@ -13,8 +13,8 @@ class SobreMim extends Desenvolvedor {
   nome = 'João Vitor Fidelis Cardozo';
   area = 'Engenharia de Software';
   trabalho = 'CSD BR';
-  curso = 'Engenharia de Computação';
-  universidade = 'UFSCar';
+  formacao = 'Engenheiro de Computação';
+  universidade = 'Universidade Federal de São Carlos - UFSCar';
 }
 
 class Skills extends Desenvolvedor {
@@ -61,7 +61,7 @@ class Skills extends Desenvolvedor {
 
 [![Linkedin: João Cardozo](https://img.shields.io/badge/-João_Vitor_Fidelis_Cardozo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-fidelis-cardozo-0556661a1/)](https://www.linkedin.com/in/jo%C3%A3o-vitor-fidelis-cardozo-0556661a1/)
 
-[![Gmail Badge](https://img.shields.io/badge/-joao.fidelis@estudante.ufscar.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.fidelis@estudante.ufscar.br)](mailto:joao.fidelis@estudante.ufscar.br)
+[![Gmail Badge](https://img.shields.io/badge/-joao.fidelis@estudante.ufscar.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaov.cardozo@hotmail.com)](mailto:joao.fidelis@estudante.ufscar.br)
 
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/joaofidelisc?label=follow&style=social)](https://github.com/joaofidelisc)
 
