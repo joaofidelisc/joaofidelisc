@@ -18,10 +18,11 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ['Python', 'JavaScript', 'C', 'C++'];
-  bibliotecas = ['Sympy', 'Numpy', 'Pandas', 'Matplotlib', 'Scipy'];
-  frameworks = ['React', 'React Native'];
-  dados = ['Firebase', 'MySQL', 'PostgreSQL'];
+  linguagens = ['Python', 'JavaScript', 'Clojure', 'C', 'C++'];
+  bibliotecas = ['Sympy', 'Numpy', 'Pandas', 'Matplotlib', 'Scipy', 'Selenium'];
+  frameworks = ['React', 'React Native', 'Vue.js'];
+  dados = ['Firebase', 'Apache Cassandra', 'MySQL', 'PostgreSQL'];
+  mensageria = ['RabbitMQ', 'Kafka/Kafka Streams']
   devOps = ['Git', 'GitHub'];
   utilidades = ['Postman'];
   ferramentasDeDesenvolvimento = ['VSCode', 'Eclipse', 'Trello', 'Figma'];
