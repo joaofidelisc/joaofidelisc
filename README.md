@@ -62,7 +62,7 @@ class Skills extends Desenvolvedor {
 
 [![Linkedin: João Cardozo](https://img.shields.io/badge/-João_Vitor_Fidelis_Cardozo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/jo%C3%A3o-vitor-fidelis-cardozo-0556661a1/](https://www.linkedin.com/in/joaofidelisc/))](https://www.linkedin.com/in/jo%C3%A3o-vitor-fidelis-cardozo-0556661a1/)
 
-[![Gmail Badge](https://img.shields.io/badge/-joao.fidelis@estudante.ufscar.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaov.cardozo@hotmail.com)](mailto:joaov.cardozo@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-joaov.cardozo@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaov.cardozo@hotmail.com)](mailto:joaov.cardozo@hotmail.com)
 
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/joaofidelisc?label=follow&style=social)](https://github.com/joaofidelisc)
 
