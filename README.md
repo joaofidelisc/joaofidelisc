@@ -4,8 +4,6 @@
 
 Já que você está aqui, deixa eu apresentar algumas informações sobre mim.
 
-Muito prazer, sou Engenheiro de Computação formado na Universidade Federal de São Carlos (UFSCar) e gosto muito de tecnologia!
-
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 ```js
