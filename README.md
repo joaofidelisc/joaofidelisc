@@ -4,6 +4,8 @@
 
 Já que você está aqui, deixa eu apresentar algumas informações sobre mim.
 
+Muito prazer, sou Engenheiro de Computação formado na Universidade Federal de São Carlos (UFSCar) e gosto muito de tecnologia!
+
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 ```js
@@ -60,9 +62,9 @@ class Skills extends Desenvolvedor {
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: João Cardozo](https://img.shields.io/badge/-João_Vitor_Fidelis_Cardozo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-fidelis-cardozo-0556661a1/)](https://www.linkedin.com/in/jo%C3%A3o-vitor-fidelis-cardozo-0556661a1/)
+[![Linkedin: João Cardozo](https://img.shields.io/badge/-João_Vitor_Fidelis_Cardozo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/jo%C3%A3o-vitor-fidelis-cardozo-0556661a1/](https://www.linkedin.com/in/joaofidelisc/))](https://www.linkedin.com/in/jo%C3%A3o-vitor-fidelis-cardozo-0556661a1/)
 
-[![Gmail Badge](https://img.shields.io/badge/-joao.fidelis@estudante.ufscar.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaov.cardozo@hotmail.com)](mailto:joao.fidelis@estudante.ufscar.br)
+[![Gmail Badge](https://img.shields.io/badge/-joao.fidelis@estudante.ufscar.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaov.cardozo@hotmail.com)](mailto:joaov.cardozo@hotmail.com)
 
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/joaofidelisc?label=follow&style=social)](https://github.com/joaofidelisc)
 
