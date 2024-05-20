@@ -12,7 +12,7 @@ import Developer from 'joaofidelisc';
 class AboutMe extends Developer {
   name = 'João Vitor Fidelis Cardozo';
   field = 'Software Engineering';
-  work = 'CSD BR';
+  work = 'Luizalabs';
   education = 'Computer Engineer';
   university = 'Federal University of São Carlos - UFSCar';
 }
