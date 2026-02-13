@@ -47,17 +47,6 @@ class Skills extends Developer {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 
-
-## **GitHub Statistics**
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofidelisc&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaofidelisc&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: João Cardozo](https://img.shields.io/badge/-João_Vitor_Fidelis_Cardozo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/jo%C3%A3o-vitor-fidelis-cardozo-0556661a1/](https://www.linkedin.com/in/joaofidelisc/))](https://www.linkedin.com/in/jo%C3%A3o-vitor-fidelis-cardozo-0556661a1/)
